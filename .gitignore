@@ -67,3 +67,6 @@ ragtest/
 .ragtest/
 .pipelines
 .pipeline
+
+# test running
+passivation/cache/

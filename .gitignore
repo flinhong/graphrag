@@ -70,3 +70,4 @@ ragtest/
 
 # test running
 passivation/cache/
+passivation/output/

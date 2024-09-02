@@ -12,7 +12,7 @@ import io
 script_directory = Path(__file__).parent
 
 # define paths
-file_name = "10.1016@j.mssp.2018.01.019.pdf"
+file_name = "10.1088@1361-6463@ac9066.pdf"
 pdf_path = script_directory.parent / "passivation/pdf" / file_name
 pdf_ocr_path = script_directory.parent / "passivation/pdf_ocr" / file_name.replace('.pdf', '.txt')
 markdown_path = script_directory.parent / "passivation/markdown" / file_name.replace('.pdf', '.md')
@@ -71,7 +71,7 @@ pattern = r'^(?:\*\*References\*\*|References).*'
 
 # Remove unwanted sections using regex
 # Replace the "References" section and everything after it with an empty string
-cleaned_content = re.sub(pattern, '', md_text, flags=re.MULTILINE | re.DOTALL)
+cleaned_content = re.sub(pattern, '', md_text, flags=re.MULTILINE | re.DOTALL | re.IGNORECASE)
 
 # Convert Markdown to HTML
 html_content = markdown(cleaned_content)

@@ -1,0 +1,315 @@
+PUBLISHED ONLINE: 29 JUNE 2015 | DOI: 10.1038/NMAT4336
+In situ study of the initiation of hydrogen bubbles at the aluminium metal/oxide interface
+De-Gang Xie[1], Zhang-Jie Wang[1], Jun Sun[1], Ju Li[1,2,3], Evan Ma[1,4]* and Zhi-Wei Shan[1]
+The presence of excess hydrogen at the interface between a
+metal substrate and a protective oxide can cause blistering[1–3]
+and spallation of the scale[4–8]. However, it remains unclear
+how nanoscale bubbles manage to reach the critical size in
+the first place. Here, we perform in situ environmental trans-
+mission electron microscopy experiments of the aluminium
+metal/oxide interface under hydrogen exposure. It is found
+that once the interface is weakened by hydrogen segregation,
+surface difusion of Al atoms initiates the formation of faceted
+cavities on the metal side, driven by Wulf reconstruction.
+The morphology and growth rate of these cavities are highly
+sensitive to the crystallographic orientation of the aluminium
+substrate. Once the cavities grow to a critical size, the internal
+gaspressurecanbecomegreatenoughtoblistertheoxidelayer.
+Our findings have implications for understanding hydrogen
+damage of interfaces.
+Hydrogen-induced interfacial failure, such as blistering at the
+metal (M)/oxide (MO) interface and protective scale spallation, is
+well known to plague native oxides and coatings on metals and
+alloys. In gas turbines[3,6–8], nuclear power plants[9–11], humid environments[1,12], or even solar sails[13], such hydrogen-related damage can
+be severe. It is generally believed that gross interfacial failure begins
+by the growth of a nanoscale gas bubble[14,15], driven by the internal
+gas pressure P, that plastically deforms the capping oxide layer to
+cause a visible outward blister (with radius of curvature, R). Existing
+models[14,16–18] pitch P against the yield strength σY, of the MO layer,
+and its surface energy γ . One can then derive a critical blister radius
+RC that depends on P, with the following relationship defining when
+blistering can occur:
+P − [4]3[σ]R[Y][2]C[t][ 2] − [2]R[γ]C > 0 (1)
+where t is the MO layer thickness. However, after inserting reasonable material parameters into equation (1) (see Supplementary
+Information) for Al/Al2O3, the following problem is noted. For P
+values of a few hundred megapascals (same order as the bulk yield
+strength of Al), RC is of the order of tens of nanometres. But if so, how
+does a ‘subcritical’ (R < RC) gas bubble grow? Calculations show that
+the thermal fluctuation energy kBT cannot propel R to RC within
+the experimental timescale. If one uses an unrealistically high gas
+pressure P of tens of gigapascals (even higher than the ideal strength
+of Al), RC can still only be reduced to a few nanometres. In other
+words, existing theories, although explaining MO blistering at above
+tens of nanometres, seem to leave a gap below tens of nanometres,
+where M deformation seems inevitable.
+This gap in understanding can be filled by recognizing that
+the metal surface morphology can change in the presence of free
+surface diffusion, which has been recently shown to be an important
+deformation mechanism of metals at sub-10-nm scale even at room
+temperature[19,20]. This speculation is strengthened by the realization
+that the metal configuration near M/MO is likely to be a metastable,
+kinetically trapped structure, usually not optimal for M itself in
+terms of its surface energies. However, if hydrogen atoms segregate
+to the M/MO interface and sever M–O bonds[21–23], the M atoms
+freed from MO can diffuse more quickly towards the desired shape,
+dictated by M’s Wulff construction, at least at the nanoscale. This
+provides an additional thermodynamic driving force unaccounted
+for in equation (1), which is concerned with only oxide properties,
+as well as a kinetic pathway to achieve RC because metal surface
+diffusion is very efficacious at changing morphology at small length
+scales (rate ∝ r [−][3]; ref. 20). The postulated pathway is illustrated in
+Fig. 1. When an interface is weakened by the interface-segregating
+hydrogen atoms (Fig. 1a), surface diffusion of metal atoms becomes
+readily activated, to reshape the metal surface: the M atoms
+diffuse away along the M/MO interface to evolve the exposed M
+surface towards that predicted by the Wulff construction. Once the
+inwardly growing cavity (Fig. 1b) reaches a critical size, the trapped
+gas pressure will be sufficient to mechanically push the oxide layer
+outward. This permits the ensuing oxide blistering (Fig. 1c) that
+expands outward, causing eventual oxide spallation.
+To directly observe how the cavity emerges initially underneath
+the oxide layer, here we have monitored the hydrogenation process
+of single-crystalline aluminium pillars with a thin layer of native
+oxide, in a 2 Pa H2 gas environment at room temperature, inside an
+environmental transmission electron microscope (TEM). Figure 2
+shows the bright-field TEM images of a pillar 240 nm in diameter,
+before and after hydrogen exposure. Two main changes can be
+clearly observed after exposure to hydrogen: the originally smooth
+thickness contours and metal/oxide interface have become wavy;
+blisters form at geometrical edges (red arrows in Fig. 2b). For
+comparison, in situ TEM experiments were also conducted in
+vacuum and with a pure nitrogen gas environment, which showed
+no such changes in the pillar under similar electron-beam intensity
+and exposure time, indicating that hydrogen exposure is responsible
+for the observed blistering and roughening. The main effect of the
+electron beam in our experiments is to ionize the H2, generating
+high fugacity to facilitate hydrogen entrance[17].
+Figure 3 reveals how the cavities nucleate at the metal/oxide interface. As seen in Fig. 3a, the initial interface is straight and smooth,
+and so are the thickness contours inside the pillar. As exposure to
+1Center for Advancing Materials Performance from the Nanoscale (CAMP-Nano) & Hysitron Applied Research Center in China (HARCC), State Key
+Laboratory for Mechanical Behavior of Materials, Xi’an Jiaotong University, Xi’an 710049, China. [2]Department of Nuclear Science and Engineering,
+Cambridge, Massachusetts 02139, USA. [3]Department of Materials Science and Engineering, Massachusetts Institute of Technology, Cambridge,
+Massachusetts 02139, USA. [4]Department of Materials Science and Engineering, Johns Hopkins University, Baltimore, Maryland 21218, USA.
+
+Metal oxide (MO)
+H H H
+Metal (M)
+b R
+M
+Low-energy facets
+c
+H2
+wc
+Figure 1 | Schematic illustration of the development of a blister on a metal
+surface. a, Hydrogen atoms segregated at the MO/M interface undermine
+the interfacial bonds. b, The metal locally reshapes itself by surface
+difusion to approach the Wulf morphology, creating a cavity with
+low-energy facets at the metal side. c, After the cavity reaches a critical size
+wc, the internal gas pressure becomes adequate to bend the MO layer
+outwards to form a dome-shaped blister of radius r.
+hydrogen continues, small perturbations appear and grow to assume
+well-shaped cavities, which bow towards the metal side (see Fig. 3b
+and Supplementary Movie 1). The base widths w of these ‘wells’
+range from a few nanometres to about 25 nm, and their spatial
+arrangement shows some degree of periodicity along the interface.
+The average cavity size characterized by ¯w increases with time, and
+each individual cavity continuously changes its size and shape (see
+Supplementary Movies 1 and 2). Also, we observed cavity coarsening; that is, big cavities consume the small ones (see Supplementary Fig. 1). This evolution of nanocavities changes the thickness
+gradient in the near-interface region, giving rise to wavy thickness
+contours. As dislocation activity is not observed, the formation of
+the cavity at the oxide/metal interface is made possible by diffusional
+deformation of the metal surface. The surface diffusion is facile,
+because when hydrogen segregates at the interface, the interfacial
+atomic bonds are much weakened owing to hydrogen insertion[21–23],
+and the activation barrier for diffusion of the near-interface atoms
+is lowered because they are no longer directly bonded to the oxide.
+The metal surfaces are then able to locally approach the inclinations
+dictated by the Wulff construction, due to capillary forces that drive
+energy minimization. Consequently, {111} facets, which are known
+to have the lowest surface energy in face-centred cubic metals, are
+expected to develop. Indeed, as the cavities grow to about w = 20 nm
+in size (defined by the largest geometric dimension), their profiles
+show clear straight segments, which result from the projections of
+{111} facets that comprise the inner cavity surface bordering the Al
+underneath (Fig. 3c,d).
+The above observations prove that low-gas-pressure cavity
+Before hydrogen
+exposure
+2 Pa H2 + electron beam, 55 min
+Figure 2 | Sample morphology before and after hydrogen exposure. a, The
+Al pillar before hydrogen exposure exhibits smooth thickness contours.
+b, The same pillar after hydrogen and electron-beam exposure for 55 min
+grows out several large blisters, as marked with red arrows. The thickness
+contours became wavy as well. The areas outlined by the orange and blue
+dashed lines are shown in Figs 3 and 4, respectively. Both scale bars,
+200 nm.
+of metal-side Wulff reconstruction, and also enabled by facile
+metal-side surface diffusion. In principle, as long as there is enough
+hydrogen segregation to debond M–O at the M/MO interface—
+a molecular (Ångström)-scale process that promotes freed-metal
+surface diffusion—such pre-blister nanoscale cavities can form,
+even with P → 0.
+Figure 4 depicts a typical process of blister formation at an
+edge of the pillar. After metal atoms diffuse away to leave a cavity,
+the newly exposed metal surfaces develop crystallographic {111}
+facets. Within 25 min of hydrogen exposure, the cavity w grows
+bigger as the {111} facets retreat inward, but the oxide layer remains
+unyielding (Fig. 4b). At 28 min, when the width of the cavity reaches
+44 nm in diameter (Fig. 4c), the oxide begins to undergo large plastic
+deformation under the pressure of the accumulated H2 gas, creating
+a blister.
+Obviously, the cavity has to reach a critical size (wc) before the
+onset of plastic deformation of the oxide layer, because it acts as a
+pinning constraint on the MO membrane. The initial stage of cavity
+emergence described above (not due to high internal hydrogen
+pressure) allows the deformation of the oxide layer to start from
+a much larger size than those required by traditional pressuredriven models[14,16–18]. Therefore, the singularity problem in those
+nucleation models is resolved. Also, this criterion underscores two
+directions that may help suppress the unwanted blistering. The first
+is to increase Rc by lowering the environmental hydrogen fugacity
+(such as lowering the level of moisture). The second is to decrease
+
+slope of S. The surface diffusivity DS can then be estimated using
+the following equation:
+λ
+2π
+
+4
+
+DS
+=− νγ[Sk] M[B]Ω[T] [2]
+where kB is the Boltzmann constant, γM is surface energy of the metal
+(γM(111) 980 mJ m[−][2]), Ω is atomic volume (0.0166 nm[3]/atom), T
+is temperature (298 K), = ν is the surface atomic density (ν(111)
+0.1 atom nm[−][2]), and λ is the segment length of the facet in the =
+rest position (for example, λ = 50 nm for the blister in Fig. 4d).
+The calculated DS for the two individual blisters (Fig. 4 and
+Supplementary Fig. 2) is 2 × 10[−][11] cm[2] s[−][1] and 3 × 10[−][11] cm[2] s[−][1],
+respectively. This is very close to the prediction from the
+empirical rule[26,27],
+6.54Tm
+DS = 0.014exp − T cm[2] s[−][1]
+ 
+where Tm is the melting temperature of Al (933 K). The calculated DS
+is 1.8 10[−][11] cm[2] s[−][1] for Al (without Al2O3) at room temperature.
+×
+The pristine metal surfaces in our experiments are completely
+immersed in hydrogen, akin to clean Al with near-intrinsic surface
+diffusivity. We can therefore conclude that it is indeed the surface
+diffusion of Al that opens up the initial cavity for the blisters to
+take shape.
+The degree of blistering we observed depends on surface
+orientation. Figure 5 shows scanning electron microscopy (SEM)
+images of a [110] (its axial direction) pillar, with Fig. 5a,b being
+the side view and top view, respectively. The orientations of the
+{111} planes (marked red) are shown in Fig. 5b. We observed that
+around the pillar circumference the blisters preferentially reside
+atop the {111} planes, whereas much smaller blisters are visible on
+the {100} planes and no blisters are found on the {110} planes.
+In comparison, Fig. 5c shows a pillar in the [100] axial direction,
+which has no {111} planes on its cylindrical surface. As a result,
+blisters form more randomly all over the cylindrical surface after
+prolonged hydrogen exposure. These results (see more evidence
+in Supplementary Fig. 3 and Supplementary Table 1) indicate
+that the surface blistering propensity is orientation dependent
+and follows the following ranking order: {111} > {100} > {110},
+0 min
+31 min
+d BD = [110]
+(111) (111)
+[111] [111]
+BD = [110]
+[111] [111]
+Figure 3 | Cavity nucleation and growth below the metal/oxide interface.
+a, Before exposure to hydrogen the initial interface is smooth. b, After
+31 min of hydrogen exposure, the interface developed a wavy morphology
+(see Supplementary Movies 1 and 2). c, The grown cavities show clear {111}
+facets. d, The selected area difraction pattern with the beam direction (BD)
+along the [110] zone axis of the pillar. All scale bars, 20 nm.
+reducing surface roughness, removing grain boundary/surface
+intersections, and engineering the surface orientation; suppressing
+surface diffusion, possibly by adding alloying elements into the
+base metal.
+The retreating {111} facet at the edge of the pillar also gives
+us an opportunity to quantitatively estimate the surface diffusivity.
+By drawing an analogy to the flattening of a wrinkled surface,
+a quantitative model to estimate the surface diffusivity can be
+obtained, following the method of refs 24,25. Assuming that the
+corner is a single-hump wrinkle, we can adopt the final rest position
+of the {111} facet in Fig. 4d as the reference and measure the height
+change of the receding facet with time. As plotted in Fig. 4e, the
+natural logarithm of height is a linear function of time, giving a
+2.5
+2.0
+1.5
+1.0
+10
+5.0
+2.0
+1.0
+0.5
+0.0
+−0.5
+−1.0
+0 min
+25 min
+Interface at
+0 min
+0.5
+|h λ ≈ 50 nm Slope (S) = −3.3 × 10−3 s−1|Col2|
+|---|---|
+|0 200 400 600 800 t (s)|1,0|
+37 min
+(111)
+28 min
+44 nm
+Figure 4 | Blister formation accompanying the receding faceted surface. a, The initial metal/oxide interface near an edge of the pillar; this reference profile
+of the interface is superimposed in b–d using a white dotted line. b, Cavity nucleation at the edge, with the metal surface retracted. Note that the oxide
+layer remains un-deformed at this point in time. c, The oxide layer bulges outward as a result of H2 pressure. d, A ripened blister, with the oxide layer and
+metal surface bulging outward and inward, respectively. The newly exposed metal surface shows clear {111} facets. (See Supplementary Movie 1.) e, The
+
+|Col1|35°|
+|---|---|
+[100]
+{110}
+{111}
+35°
+{100}
+55°
+[110]
+[110]
+Figure 5 | Orientation-dependent blister distribution. a, Side-view SEM image of the pillar with the axis in the [110] direction after hydrogen exposure
+(∼2 Pa, 35 min). Two columns of large blisters line up on the front surface. Additionally, small blisters exist at sites marked with green arrows. b, Top-view
+SEM image of the same pillar showing that four blister line-ups reside on the {111} surfaces, whereas small blisters reside on the {100} surfaces. c, Blisters
+on a pillar with [100] axial direction after hydrogenation (2–4 Pa, 1.5 h). Owing to the absence of {111} planes parallel to the pillar axis, blisters spread more
+randomly over the entire cylindrical surface. All scale bars, 200 nm.
+in line with the expectation from their surface energies[28]. This
+blistering anisotropy originates from the fact that {111} facets
+have the lowest surface energy and are correspondingly the most
+prone to cavity nucleation and growth. As already shown in Fig. 4,
+the cavity on {111} has the fastest growth rate and reaches wc
+the earliest. Figure 5 thus suggests that to delay blistering in the
+surface oxide, the metal should avoid low-energy planes parallel to
+its surfaces.
+We have discovered that long before visible blisters are created,
+cavities form beneath the oxide film on hydrogen exposure, driven
+by Wulff reconstruction and freed-metal surface diffusion. We
+name this phenomenon ‘pre-blister cavitation’, which occurs on the
+metal side. Our findings suggest that it takes much less hydrogen
+to weaken the interface to allow Wulff reconstruction than to
+blister the oxide layer. This has implications for understanding the
+integrity/damage of coatings and passivation films on metals, where
+hydrogen-induced interfacial failure is a major threat. In particular,
+even when the blisters stay subcritical (Fig. 1b) owing to very small
+Wulff cavities (say ∼5 nm), these very small Wulff cavities are still
+hidden damage that greatly reduces the interfacial delamination
+strength, by providing potential nucleation and coalescence sites for
+interfacial fracture under external stress. Therefore, blistering is a
+final-stage visible symptom of hydrogen damage of the interface, but
+not a necessary condition for markedly easier scale spallation from
+the substrate[6,29].
+Methods
+Methods and any associated references are available in the online
+version of the paper.
+Received 5 February 2015; accepted 25 May 2015;
+published online 29 June 2015

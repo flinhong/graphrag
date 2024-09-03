@@ -1,0 +1,1088 @@
+[
+    {
+        "text_chunk": "Contents lists available at ScienceDirect Materials Science in Semiconductor Processing journal homepage: www.elsevier.com/locate/mssp Review of advanced hydrogen passivation for high efficient crystalline silicon solar cells Sang Hee Lee, Muhammad Fahad Bhopal, Doo Won Lee, Soo Hong Lee[\u204e] Green Strategic Energy Research Institute, Department of Electronics Engineering, Sejong University, 98 Gunja-dong, Gwangjin-gu, Seoul 143-747, Republic of Korea T A R T I C L E I N F O Keywords: Silicon solar cells Hydrogen Defect passivation Minority carrier lifetime Laser Introduction A B S T R A C T Hydrogen passivation, such as forming gas annealing and alneal (aluminum anneal) process, has been investigated for high efficient crystalline silicon solar cell structures, because the hydrogen atoms can reduce the surface recombination velocity. However, hydrogen could not diffuse deeply to passivate various defects within the silicon bulk. Further investigations into the properties of hydrogen in the silicon lead to the control of hydrogen atoms\u2019 charge states for their high diffusivity and reactivity. Also, research of the hydrogenated amorphous silicon nitride (a-SiNx:H) as a hydrogen source induced an \u2018advanced hydrogen passivation\u2019. This paper provides a review of advanced hydrogen passivation applied on p-type, n-type and upgraded metallurgical grade crystalline silicon solar cells, respectively.",
+        "relationships": [
+            {
+                "source": "Sang Hee Lee",
+                "relationship": "affiliated_with",
+                "target": "Green Strategic Energy Research Institute"
+            },
+            {
+                "source": "Muhammad Fahad Bhopal",
+                "relationship": "affiliated_with",
+                "target": "Green Strategic Energy Research Institute"
+            },
+            {
+                "source": "Doo Won Lee",
+                "relationship": "affiliated_with",
+                "target": "Green Strategic Energy Research Institute"
+            },
+            {
+                "source": "Soo Hong Lee",
+                "relationship": "affiliated_with",
+                "target": "Green Strategic Energy Research Institute"
+            },
+            {
+                "source": "Green Strategic Energy Research Institute",
+                "relationship": "located_at",
+                "target": "Sejong University"
+            },
+            { "source": "Sejong University", "relationship": "located_at", "target": "Seoul" },
+            {
+                "source": "Hydrogen passivation",
+                "relationship": "applied_to",
+                "target": "crystalline silicon solar cells"
+            },
+            {
+                "source": "Hydrogen passivation",
+                "relationship": "investigated_for",
+                "target": "high efficient crystalline silicon solar cell structures"
+            },
+            { "source": "Hydrogen atoms", "relationship": "reduce", "target": "surface recombination velocity" },
+            { "source": "Hydrogen", "relationship": "diffuse", "target": "silicon bulk" },
+            {
+                "source": "Hydrogenated amorphous silicon nitride (a-SiNx:H)",
+                "relationship": "induce",
+                "target": "advanced hydrogen passivation"
+            },
+            {
+                "source": "Advanced hydrogen passivation",
+                "relationship": "applied_to",
+                "target": "p-type crystalline silicon solar cells"
+            },
+            {
+                "source": "Advanced hydrogen passivation",
+                "relationship": "applied_to",
+                "target": "n-type crystalline silicon solar cells"
+            },
+            {
+                "source": "Advanced hydrogen passivation",
+                "relationship": "applied_to",
+                "target": "upgraded metallurgical grade crystalline silicon solar cells"
+            }
+        ]
+    },
+    {
+        "text_chunk": "hydrogen atoms\u2019 charge states for their high diffusivity and reactivity. Also, research of the hydrogenated amorphous silicon nitride (a-SiNx:H) as a hydrogen source induced an \u2018advanced hydrogen passivation\u2019. This paper provides a review of advanced hydrogen passivation applied on p-type, n-type and upgraded metallurgical grade crystalline silicon solar cells, respectively. Especially, the regeneration of boron-oxygen related defects, which cause carrier induced degradation, will be closely discussed since most of industrial solar cells are fabricated by boron-doped p-type silicon wafer. Moreover, laser-induced hydrogen passivation, which can locally recover defective area on the solar cells, will be addressed. In the conclusion, proper conditions of advanced hydrogen passivation for the successful improvement of minority carrier lifetime will be summarized. crystalline silicon [5,9\u201315]. Moreover, it has been reported that boronoxygen (B-O) complex, which leads to carrier-induced degradation (CID) in boron doped p-type silicon wafers, can be deactivated effectively by using hydrogen atoms in the silicon nitride layer [16\u201321]. For effective hydrogen passivation of defects in crystalline silicon, locally stable charge states of interstitial hydrogen was considered as an important parameter [22]. Interstitial monatomic hydrogen atoms in silicon are known to exist in three charge states: positive (H[+]), neutral (H[0]), and negative (H[-]) [23\u201325]. Depending",
+        "relationships": [
+            { "source": "hydrogen atoms", "relationship": "have", "target": "high diffusivity and reactivity" },
+            {
+                "source": "hydrogenated amorphous silicon nitride (a-SiNx:H)",
+                "relationship": "induces",
+                "target": "advanced hydrogen passivation"
+            },
+            {
+                "source": "advanced hydrogen passivation",
+                "relationship": "applied on",
+                "target": "p-type, n-type and upgraded metallurgical grade crystalline silicon solar cells"
+            },
+            {
+                "source": "boron-oxygen related defects",
+                "relationship": "cause",
+                "target": "carrier induced degradation"
+            },
+            {
+                "source": "boron-doped p-type silicon wafer",
+                "relationship": "fabricates",
+                "target": "industrial solar cells"
+            },
+            {
+                "source": "laser-induced hydrogen passivation",
+                "relationship": "recovers",
+                "target": "defective area on the solar cells"
+            },
+            {
+                "source": "advanced hydrogen passivation",
+                "relationship": "improves",
+                "target": "minority carrier lifetime"
+            },
+            {
+                "source": "boronoxygen (B-O) complex",
+                "relationship": "leads to",
+                "target": "carrier-induced degradation (CID)"
+            },
+            { "source": "hydrogen atoms", "relationship": "deactivate", "target": "boronoxygen (B-O) complex" },
+            {
+                "source": "interstitial hydrogen",
+                "relationship": "exists in",
+                "target": "three charge states: positive (H[+]), neutral (H[0]), and negative (H[-])"
+            }
+        ]
+    },
+    {
+        "text_chunk": "silicon nitride layer [16\u201321]. For effective hydrogen passivation of defects in crystalline silicon, locally stable charge states of interstitial hydrogen was considered as an important parameter [22]. Interstitial monatomic hydrogen atoms in silicon are known to exist in three charge states: positive (H[+]), neutral (H[0]), and negative (H[-]) [23\u201325]. Depending on the charge states of hydrogen atoms, their diffusivities in the doped silicon are different. Among the three charge states of hydrogen, the diffusivity of H[0] is substantially higher than the other charge states since it is free from the charge effects and electric fields in the silicon [26,27]. Consequently, substantial concentration of the injected hydrogen atoms into silicon can possibly passivate the defects when the hydrogen has a favorable charge state for the specific defects [19]. In the next chapter, the general properties of hydrogen in crystalline silicon, based on the research about charge states of hydrogen, will be summarized. Afterwards, the paper offers a detailed overview of advanced hydrogen passivation on p-type, n-type and upgraded metallurgical grade (UMG) silicon wafers. Lastly, a laser-induced hydrogen passivation technique, which can selectively passivate defective region on the solar cell, will be introduced. Dominated by crystalline silicon solar cells, photovoltaic industries have",
+        "relationships": [
+            {
+                "source": "silicon nitride layer",
+                "relationship": "is associated with",
+                "target": "hydrogen passivation"
+            },
+            { "source": "hydrogen", "relationship": "has", "target": "charge states" },
+            { "source": "charge states", "relationship": "affect", "target": "diffusivities" },
+            { "source": "H[0]", "relationship": "is higher than", "target": "other charge states" },
+            { "source": "hydrogen", "relationship": "can passivate", "target": "defects" },
+            { "source": "hydrogen passivation", "relationship": "is applied to", "target": "p-type silicon wafers" },
+            { "source": "hydrogen passivation", "relationship": "is applied to", "target": "n-type silicon wafers" },
+            {
+                "source": "hydrogen passivation",
+                "relationship": "is applied to",
+                "target": "upgraded metallurgical grade silicon wafers"
+            },
+            {
+                "source": "laser-induced hydrogen passivation",
+                "relationship": "can passivate",
+                "target": "defective region"
+            },
+            {
+                "source": "crystalline silicon solar cells",
+                "relationship": "dominate",
+                "target": "photovoltaic industries"
+            }
+        ]
+    },
+    {
+        "text_chunk": "summarized. Afterwards, the paper offers a detailed overview of advanced hydrogen passivation on p-type, n-type and upgraded metallurgical grade (UMG) silicon wafers. Lastly, a laser-induced hydrogen passivation technique, which can selectively passivate defective region on the solar cell, will be introduced. Dominated by crystalline silicon solar cells, photovoltaic industries have been developed to compete with other energy sources and renewable energy. For a reduction of solar module price per watt peak, there were many approaches to improve the conversion efficiency of solar cells without substantial cost increase. In order to improve solar cell efficiency, passivation of the silicon surface and bulk is a significant process since the passivation quality decides the minority carrier lifetime. From the integrated circuit fabrication, a hydrogenated amorphous silicon nitride (a-SiNx:H) film, which was deposited by plasma enhanced chemical vapor deposition (PECVD), was simultaneously applied to solar cells as a passivation layer and an anti-reflection coating (ARC) layer [1,2]. The silicon nitride layer, which is usually processed by reaction of SiH4 and NH3 gas, contains hydrogen atoms that could not free from the silicon substrate during the deposition [3]. Hence, many solar cell researchers have been interested in releasing the hydrogen atoms from the silicon nitride",
+        "relationships": [
+            {
+                "source": "paper",
+                "relationship": "offers",
+                "target": "detailed overview of advanced hydrogen passivation"
+            },
+            {
+                "source": "laser-induced hydrogen passivation technique",
+                "relationship": "can passivate",
+                "target": "defective region on the solar cell"
+            },
+            {
+                "source": "photovoltaic industries",
+                "relationship": "dominated by",
+                "target": "crystalline silicon solar cells"
+            },
+            {
+                "source": "solar cells",
+                "relationship": "compete with",
+                "target": "other energy sources and renewable energy"
+            },
+            {
+                "source": "passivation of the silicon surface and bulk",
+                "relationship": "improves",
+                "target": "solar cell efficiency"
+            },
+            {
+                "source": "hydrogenated amorphous silicon nitride (a-SiNx:H) film",
+                "relationship": "was applied to",
+                "target": "solar cells"
+            },
+            {
+                "source": "hydrogenated amorphous silicon nitride (a-SiNx:H) film",
+                "relationship": "was deposited by",
+                "target": "plasma enhanced chemical vapor deposition (PECVD)"
+            },
+            { "source": "silicon nitride layer", "relationship": "contains", "target": "hydrogen atoms" },
+            {
+                "source": "silicon nitride layer",
+                "relationship": "processed by",
+                "target": "reaction of SiH4 and NH3 gas"
+            },
+            {
+                "source": "solar cell researchers",
+                "relationship": "interested in",
+                "target": "releasing the hydrogen atoms from the silicon nitride"
+            }
+        ]
+    },
+    {
+        "text_chunk": "(ARC) layer [1,2]. The silicon nitride layer, which is usually processed by reaction of SiH4 and NH3 gas, contains hydrogen atoms that could not free from the silicon substrate during the deposition [3]. Hence, many solar cell researchers have been interested in releasing the hydrogen atoms from the silicon nitride layer to enhance the passivation quality since the beneficial interaction of hydrogen with dangling bond have been widely studied from the early 1970s [4\u20138]. To date, it has been well known that hydrogen can passivate various defects such as crystallographic defects in multi-crystalline silicon (mcSi), metal impurities, laser-induced defects and the surfaces of \u204e Corresponding author. E-mail address: shl@sejong.ac.kr (S.H. Lee). https://doi.org/10.1016/j.mssp.2018.01.019 Received 22 November 2017; Received in revised form 8 January 2018; Accepted 27 January 2018Availableonline20February2018 1369-8001/\u00a92018ElsevierLtdAllrightsreserved Fig. 1. (a) Donor and acceptor level of hydrogen in silicon band gap. (b) The fractional hydrogen concentration of each charge states as a function of Fermi level at 423 K [22]. Properties of hydrogen in crystalline silicon As mentioned in the introduction, interstitial hydrogen atoms can exist in three charge states depending on the number of electrons they have. Accordingly, each state of hydrogens is favorable to interact with the specific",
+        "relationships": [
+            { "source": "silicon nitride layer", "relationship": "contains", "target": "hydrogen atoms" },
+            { "source": "hydrogen atoms", "relationship": "interact with", "target": "dangling bond" },
+            { "source": "hydrogen", "relationship": "passivate", "target": "crystallographic defects" },
+            { "source": "hydrogen", "relationship": "passivate", "target": "metal impurities" },
+            { "source": "hydrogen", "relationship": "passivate", "target": "laser-induced defects" },
+            { "source": "hydrogen", "relationship": "passivate", "target": "surfaces" },
+            {
+                "source": "silicon nitride layer",
+                "relationship": "processed by",
+                "target": "reaction of SiH4 and NH3 gas"
+            },
+            {
+                "source": "solar cell researchers",
+                "relationship": "interested in",
+                "target": "releasing hydrogen atoms"
+            },
+            { "source": "hydrogen atoms", "relationship": "exist in", "target": "three charge states" },
+            { "source": "hydrogen", "relationship": "have", "target": "donor and acceptor level" }
+        ]
+    },
+    {
+        "text_chunk": "as a function of Fermi level at 423 K [22]. Properties of hydrogen in crystalline silicon As mentioned in the introduction, interstitial hydrogen atoms can exist in three charge states depending on the number of electrons they have. Accordingly, each state of hydrogens is favorable to interact with the specific charge state of the defects in the silicon. For example, the negative charge state of hydrogens can neutralize phosphorous dopant atoms or positively-charged transition metal impurities [28\u201330]. Conversely, boron acceptors and negatively-charged transition metal impurities can be neutralized by the positive charge state of hydrogens [31]. Also, the neutralized dopants can be electrically re-activated by the other charge states of hydrogens. Hence, controlling the concentration of specific charge state of hydrogens is important for passivating defects. The relative hydrogen concentration of specific charge state is dominated by the location of Fermi level relative to the donor and acceptor level of hydrogen [32]. Herring et al. reported that the hydrogen donor level is located 0.16 eV under the conduction band and the acceptor level is located about 0.07 eV below the middle of band gap (Fig. 1(a)) [22]. Since the donor level is above the acceptor level, the H[0] is never",
+        "relationships": [
+            { "source": "hydrogen", "relationship": "interact", "target": "defects" },
+            {
+                "source": "negative charge state of hydrogens",
+                "relationship": "neutralize",
+                "target": "phosphorous dopant atoms"
+            },
+            {
+                "source": "negative charge state of hydrogens",
+                "relationship": "neutralize",
+                "target": "positively-charged transition metal impurities"
+            },
+            {
+                "source": "positive charge state of hydrogens",
+                "relationship": "neutralize",
+                "target": "boron acceptors"
+            },
+            {
+                "source": "positive charge state of hydrogens",
+                "relationship": "neutralize",
+                "target": "negatively-charged transition metal impurities"
+            },
+            {
+                "source": "other charge states of hydrogens",
+                "relationship": "re-activate",
+                "target": "neutralized dopants"
+            },
+            { "source": "hydrogen concentration", "relationship": "dominated", "target": "Fermi level" },
+            { "source": "Herring et al.", "relationship": "reported", "target": "hydrogen donor level" },
+            { "source": "hydrogen donor level", "relationship": "located", "target": "conduction band" },
+            { "source": "hydrogen acceptor level", "relationship": "located", "target": "band gap" }
+        ]
+    },
+    {
+        "text_chunk": "hydrogen [32]. Herring et al. reported that the hydrogen donor level is located 0.16 eV under the conduction band and the acceptor level is located about 0.07 eV below the middle of band gap (Fig. 1(a)) [22]. Since the donor level is above the acceptor level, the H[0] is never stable and pairs of them easily transfer an electron from one to the other [33]. As Fig. 1(b) shows, there is a dominant charge state of hydrogen for both n and p type silicon, respectively. Especially, the H[0] is always a minority charge state of hydrogen although it has advantages for efficient defect passivation. The main benefit of the H[0] is that the diffusivity is five orders magnitude higher than the other charge states since it is not influenced by a fixed charge and electric field inside of silicon [23,28,34,35]. Also, it has high reactivity due to a free electron, which can be given to other defects or obtain another electron for bonding. However, the H[0] maintains stability for the order of nanoseconds and then auto-ionizes to the H[+] in the p-type silicon at room temperature [22]. Therefore, maintaining a favorable condition for the H[0] generation is required for the",
+        "relationships": [
+            { "source": "Herring et al.", "relationship": "reported", "target": "hydrogen donor level" },
+            { "source": "hydrogen donor level", "relationship": "located", "target": "conduction band" },
+            { "source": "acceptor level", "relationship": "located", "target": "band gap" },
+            { "source": "donor level", "relationship": "above", "target": "acceptor level" },
+            { "source": "H[0]", "relationship": "transfer", "target": "electron" },
+            { "source": "H[0]", "relationship": "has", "target": "advantages" },
+            { "source": "H[0]", "relationship": "has", "target": "high reactivity" },
+            { "source": "H[0]", "relationship": "maintains", "target": "stability" },
+            { "source": "H[0]", "relationship": "auto-ionizes", "target": "H[+]" },
+            { "source": "H[0]", "relationship": "required", "target": "favorable condition" }
+        ]
+    },
+    {
+        "text_chunk": "which can be given to other defects or obtain another electron for bonding. However, the H[0] maintains stability for the order of nanoseconds and then auto-ionizes to the H[+] in the p-type silicon at room temperature [22]. Therefore, maintaining a favorable condition for the H[0] generation is required for the great level of defect passivation. In order to achieve high H[0] concentration, a tempering process can be used since the changed Fermi energy closer to the mid-bandgap can increase the fractional H[0] concentration. Also, an injection of excess carrier from an illumination source can increase the H[0] concentration by converting the Fermi energy into the quasi-Fermi energy. For these reasons, P. Hamer et al. researched the manipulation of minority hydrogen charge states, which was predicted by modeling of the fractional H[0] concentration by combining the temperature conditions and excess carrier densities [33]. The simulated fractional concentration of H[0] showed that there is a maximum point of H[0] concentration at different temperatures depending on each excess carrier density. They compared the simulated data with an effective lifetime data from UMG silicon wafers which were hydrogenated at various annealing temperatures under illumination. Above 550 K of process temperature, the effective lifetime trend",
+        "relationships": [
+            { "source": "H[0]", "relationship": "auto-ionizes to", "target": "H[+]" },
+            { "source": "H[0]", "relationship": "maintains stability for", "target": "nanoseconds" },
+            {
+                "source": "tempering process",
+                "relationship": "can increase",
+                "target": "fractional H[0] concentration"
+            },
+            { "source": "injection of excess carrier", "relationship": "can increase", "target": "H[0] concentration" },
+            {
+                "source": "P. Hamer et al.",
+                "relationship": "researched",
+                "target": "manipulation of minority hydrogen charge states"
+            },
+            { "source": "modeling", "relationship": "predicted", "target": "fractional H[0] concentration" },
+            { "source": "simulated data", "relationship": "compared with", "target": "effective lifetime data" },
+            {
+                "source": "UMG silicon wafers",
+                "relationship": "were hydrogenated at",
+                "target": "various annealing temperatures"
+            },
+            { "source": "illumination source", "relationship": "can increase", "target": "H[0] concentration" },
+            { "source": "Fermi energy", "relationship": "converted into", "target": "quasi-Fermi energy" },
+            { "source": "H[0] generation", "relationship": "requires", "target": "favorable condition" },
+            { "source": "high H[0] concentration", "relationship": "achieved by", "target": "tempering process" },
+            {
+                "source": "H[0] concentration",
+                "relationship": "has maximum point at",
+                "target": "different temperatures"
+            }
+        ]
+    },
+    {
+        "text_chunk": "there is a maximum point of H[0] concentration at different temperatures depending on each excess carrier density. They compared the simulated data with an effective lifetime data from UMG silicon wafers which were hydrogenated at various annealing temperatures under illumination. Above 550 K of process temperature, the effective lifetime trend matched the simulated H[0] concentration trend. The experimental results showed that controlling the charge state of hydrogen for achieving maximum H[0] concentration is a significant technique even though the data trend mismatched a simulation under 550 K of annealing conditions due to the other types of defects. Advanced hydrogen passivation 3.1. From conventional hydrogen passivation to advanced hydrogen passivation Initially, hydrogen passivation focused on the reduction of surface recombination velocity. Among the successful techniques for using hydrogen, forming gas annealing (FGA) was considered one of the costeffective ways to improve silicon surface quality. FGA is usually conducted at around 400\u2013450 \u00b0C for 5\u201330 min in a furnace. The application of conventional passivation with atomic hydrogen was called the \u2018alneal\u2019 (aluminum anneal) process [36\u201338]. As the process name implies, an aluminum layer is deposited on the thermally grown SiO2 layer followed by annealing at around 370\u2013400 \u00b0C for 30 min in",
+        "relationships": [
+            { "source": "H[0] concentration", "relationship": "depends on", "target": "excess carrier density" },
+            { "source": "simulated data", "relationship": "compared with", "target": "effective lifetime data" },
+            {
+                "source": "effective lifetime trend",
+                "relationship": "matched",
+                "target": "simulated H[0] concentration trend"
+            },
+            {
+                "source": "controlling the charge state of hydrogen",
+                "relationship": "achieves",
+                "target": "maximum H[0] concentration"
+            },
+            { "source": "data trend", "relationship": "mismatched", "target": "simulation" },
+            {
+                "source": "hydrogen passivation",
+                "relationship": "focused on",
+                "target": "reduction of surface recombination velocity"
+            },
+            {
+                "source": "forming gas annealing (FGA)",
+                "relationship": "improves",
+                "target": "silicon surface quality"
+            },
+            { "source": "aluminum layer", "relationship": "deposited on", "target": "thermally grown SiO2 layer" }
+        ]
+    },
+    {
+        "text_chunk": "\u00b0C for 5\u201330 min in a furnace. The application of conventional passivation with atomic hydrogen was called the \u2018alneal\u2019 (aluminum anneal) process [36\u201338]. As the process name implies, an aluminum layer is deposited on the thermally grown SiO2 layer followed by annealing at around 370\u2013400 \u00b0C for 30 min in the dark. It is assumed that the atomic hydrogens are generated during this process as by-products of the reaction between aluminum and hydroxyl ions within the SiO2 [38]. Then the atomic hydrogen diffuses to the Si-SiO2 interface and passivate dangling bond. After the process, the aluminum on the light receiving face side can be removed by phosphoric acid. By applying this technique, J. Zhao et al. reported substantial improvement in the effective minority carrier lifetime (\u03c4eff) in various types of wafer and recorded high-efficiency solar cells with passivated emitter, rear locally diffused (PERL) and passivated emitter, rear totally diffused (PERT) structures [39,40]. A great difference in the conventional hydrogen passivation and \u2018advanced hydrogen passivation\u2019 is controlling the charge state of hydrogen atoms to maximize the passivation effect. As already mentioned in the previous chapter, shifting the Fermi energy by using thermal energy and illumination can increase the concentration of the",
+        "relationships": [
+            { "source": "aluminum", "relationship": "is deposited on", "target": "SiO2 layer" },
+            { "source": "aluminum", "relationship": "reacts with", "target": "hydroxyl ions" },
+            {
+                "source": "atomic hydrogens",
+                "relationship": "are generated from",
+                "target": "reaction between aluminum and hydroxyl ions"
+            },
+            { "source": "atomic hydrogen", "relationship": "diffuses to", "target": "Si-SiO2 interface" },
+            { "source": "atomic hydrogen", "relationship": "passivates", "target": "dangling bond" },
+            { "source": "aluminum", "relationship": "is removed by", "target": "phosphoric acid" },
+            {
+                "source": "J. Zhao et al.",
+                "relationship": "reported",
+                "target": "substantial improvement in the effective minority carrier lifetime"
+            },
+            {
+                "source": "J. Zhao et al.",
+                "relationship": "recorded",
+                "target": "high-efficiency solar cells with passivated emitter, rear locally diffused (PERL) and passivated emitter, rear totally diffused (PERT) structures"
+            },
+            {
+                "source": "conventional hydrogen passivation",
+                "relationship": "differs from",
+                "target": "advanced hydrogen passivation"
+            },
+            {
+                "source": "advanced hydrogen passivation",
+                "relationship": "controls",
+                "target": "charge state of hydrogen atoms"
+            }
+        ]
+    },
+    {
+        "text_chunk": "structures [39,40]. A great difference in the conventional hydrogen passivation and \u2018advanced hydrogen passivation\u2019 is controlling the charge state of hydrogen atoms to maximize the passivation effect. As already mentioned in the previous chapter, shifting the Fermi energy by using thermal energy and illumination can increase the concentration of the favorable charge states of hydrogen atoms. Below this section, details of parameters and conditions, which can influence the advanced hydrogen for the each type of silicon wafer, will be addressed. 3.2. Advanced hydrogen passivation for p-type silicon wafers Since the 1970s, minority carrier lifetime of boron doped silicon material which contains high oxygen contents was asymptotically degraded under carrier injection (illumination or bias) due to the adverse influence of B-O related defects [41\u201347]. This CID of solar cells decrease the short-circuit current and the open-circuit voltage [48]. As a result, about 2% of the absolute conversion efficiency can be decreased by the CID in highly boron doped (ND > 10[16] cm[\u2212][3]) oxygen rich silicon under typical working conditions of solar cells [49]. Although the mechanism of CID is still not clear, the current understanding of CID is that the energy from the recombination of the injected minority carrier enhances the",
+        "relationships": [
+            {
+                "source": "conventional hydrogen passivation",
+                "relationship": "differs from",
+                "target": "advanced hydrogen passivation"
+            },
+            {
+                "source": "advanced hydrogen passivation",
+                "relationship": "controls",
+                "target": "charge state of hydrogen atoms"
+            },
+            { "source": "Fermi energy", "relationship": "shifts by", "target": "thermal energy and illumination" },
+            {
+                "source": "Fermi energy",
+                "relationship": "increases",
+                "target": "concentration of favorable charge states of hydrogen atoms"
+            },
+            {
+                "source": "B-O related defects",
+                "relationship": "adversely influences",
+                "target": "minority carrier lifetime of boron doped silicon material"
+            },
+            {
+                "source": "CID",
+                "relationship": "decreases",
+                "target": "short-circuit current and open-circuit voltage"
+            },
+            { "source": "CID", "relationship": "decreases", "target": "absolute conversion efficiency" },
+            {
+                "source": "energy from recombination of injected minority carrier",
+                "relationship": "enhances",
+                "target": "CID"
+            }
+        ]
+    },
+    {
+        "text_chunk": "by the CID in highly boron doped (ND > 10[16] cm[\u2212][3]) oxygen rich silicon under typical working conditions of solar cells [49]. Although the mechanism of CID is still not clear, the current understanding of CID is that the energy from the recombination of the injected minority carrier enhances the diffusion of the oxygen dimer (O2i) and it binds to the substitutional boron atom (Bs) [50\u201352]. As a result of the recombination enhanced process, the BsO2i complex formation occurs at room temperature with an injected carrier and produces recombination trap sites of minority carriers. The BsO2i can be dissociated by annealing in the dark at temperature above 170 \u00b0C and then, the minority carrier lifetime is recovered [53]. However, the annealed state is not stable since the Bs and O2i are still present in the silicon and can form the B-O complex again under the minority carrier injection [53]. 3.2.1. Regeneration reaction and the role of hydrogen In order to keep the inactive state of B-O complex, a \u2018regeneration reaction\u2019 has been reported by Herguth et al. [49,54]. The regeneration reaction transforms the degraded state of B-O complex into the regenerated state, which is stable under carrier injection [55]. Accordingly,",
+        "relationships": [
+            { "source": "CID", "relationship": "occurs in", "target": "boron doped silicon" },
+            { "source": "CID", "relationship": "is enhanced by", "target": "recombination of minority carrier" },
+            { "source": "oxygen dimer (O2i)", "relationship": "binds to", "target": "substitutional boron atom (Bs)" },
+            { "source": "BsO2i complex", "relationship": "forms at", "target": "room temperature" },
+            {
+                "source": "BsO2i complex",
+                "relationship": "produces",
+                "target": "recombination trap sites of minority carriers"
+            },
+            { "source": "BsO2i", "relationship": "can be dissociated by", "target": "annealing in the dark" },
+            { "source": "annealing in the dark", "relationship": "recovers", "target": "minority carrier lifetime" },
+            { "source": "Bs and O2i", "relationship": "can form", "target": "B-O complex" },
+            {
+                "source": "regeneration reaction",
+                "relationship": "transforms",
+                "target": "degraded state of B-O complex"
+            },
+            { "source": "regeneration reaction", "relationship": "is reported by", "target": "Herguth et al." },
+            {
+                "source": "regeneration reaction",
+                "relationship": "results in",
+                "target": "regenerated state of B-O complex"
+            }
+        ]
+    },
+    {
+        "text_chunk": "Regeneration reaction and the role of hydrogen In order to keep the inactive state of B-O complex, a \u2018regeneration reaction\u2019 has been reported by Herguth et al. [49,54]. The regeneration reaction transforms the degraded state of B-O complex into the regenerated state, which is stable under carrier injection [55]. Accordingly, the three state model of B-O complex was introduced, as in Fig. 2 shows the requirements and the typical temperature conditions to transform of each states [20,56]. Meanwhile, it has been reported that hydrogen in the silicon bulk acts as a significant factor for regeneration of B-O defects. Wilking et al. has shown that a high enough concentration of hydrogen in the silicon bulk is necessary to bring about the regenerate process by applying a cyclic hydrogenation procedure. [57,58]. Each cycle of hydrogenation consists of two steps. First, samples are exposed in a remote hydrogen plasma using microwave-induced remote hydrogen plasma (MIRHP) reactor to passivate boron atoms near the surface with the hydrogen. Second, annealing in nitrogen atmosphere releases hydrogen from the boron atoms. After the regeneration process, the minority carrier lifetime of the samples were compared by increasing the number of cyclic hydrogenation. As a result, the lifetime of",
+        "relationships": [
+            { "source": "Herguth et al.", "relationship": "reported", "target": "regeneration reaction" },
+            { "source": "regeneration reaction", "relationship": "transforms", "target": "B-O complex" },
+            { "source": "B-O complex", "relationship": "has", "target": "three state model" },
+            {
+                "source": "hydrogen",
+                "relationship": "acts as",
+                "target": "significant factor for regeneration of B-O defects"
+            },
+            {
+                "source": "Wilking et al.",
+                "relationship": "shown",
+                "target": "high enough concentration of hydrogen is necessary for regeneration"
+            },
+            { "source": "cyclic hydrogenation procedure", "relationship": "applied", "target": "regeneration process" },
+            { "source": "hydrogenation", "relationship": "consists of", "target": "two steps" },
+            { "source": "MIRHP reactor", "relationship": "used for", "target": "passivating boron atoms" },
+            { "source": "annealing", "relationship": "releases", "target": "hydrogen from boron atoms" },
+            {
+                "source": "regeneration process",
+                "relationship": "compared",
+                "target": "minority carrier lifetime of samples"
+            }
+        ]
+    },
+    {
+        "text_chunk": "plasma (MIRHP) reactor to passivate boron atoms near the surface with the hydrogen. Second, annealing in nitrogen atmosphere releases hydrogen from the boron atoms. After the regeneration process, the minority carrier lifetime of the samples were compared by increasing the number of cyclic hydrogenation. As a result, the lifetime of the samples were logarithmically increased with more cycle of the hydrogenation process. However, the reaction rate of regeneration can be slowed down by factors such as boron, interstitial oxygen, thermal donors, or metal Fig. 2. Transition between three states model of B-O defect and required conditions for each transition. impurities [59\u201361]. These impurities are known to be traps for atomic hydrogen and take the possibility of a B-O defect passivation [62]. For this reason, the best condition for a regeneration reaction can be achieved when there is a high enough concentration of mobile atomic hydrogen in a silicon wafer containing a limited concentration of other impurities. 3.2.2. Role of an a-SiNx:H layer and following annealing process for the regeneration Although the cyclic hydrogenation procedure clearly showed the role of hydrogen in the regeneration reaction, it is not an effective method for application in industries. For this reason, an a-SiNx:H layer",
+        "relationships": [
+            { "source": "plasma (MIRHP) reactor", "relationship": "passivates", "target": "boron atoms" },
+            { "source": "hydrogen", "relationship": "passivates", "target": "boron atoms" },
+            { "source": "annealing in nitrogen atmosphere", "relationship": "releases", "target": "hydrogen" },
+            { "source": "hydrogen", "relationship": "is released from", "target": "boron atoms" },
+            { "source": "cyclic hydrogenation", "relationship": "increases", "target": "minority carrier lifetime" },
+            { "source": "hydrogenation process", "relationship": "increases", "target": "lifetime of the samples" },
+            { "source": "boron", "relationship": "slows down", "target": "regeneration reaction" },
+            { "source": "interstitial oxygen", "relationship": "slows down", "target": "regeneration reaction" },
+            { "source": "thermal donors", "relationship": "slows down", "target": "regeneration reaction" },
+            { "source": "metal impurities", "relationship": "slows down", "target": "regeneration reaction" },
+            { "source": "impurities", "relationship": "trap", "target": "atomic hydrogen" },
+            { "source": "impurities", "relationship": "take the possibility of", "target": "B-O defect passivation" },
+            {
+                "source": "mobile atomic hydrogen",
+                "relationship": "achieves",
+                "target": "best condition for regeneration reaction"
+            },
+            { "source": "a-SiNx:H layer", "relationship": "follows", "target": "annealing process" },
+            {
+                "source": "cyclic hydrogenation procedure",
+                "relationship": "shows",
+                "target": "role of hydrogen in regeneration reaction"
+            }
+        ]
+    },
+    {
+        "text_chunk": "a limited concentration of other impurities. 3.2.2. Role of an a-SiNx:H layer and following annealing process for the regeneration Although the cyclic hydrogenation procedure clearly showed the role of hydrogen in the regeneration reaction, it is not an effective method for application in industries. For this reason, an a-SiNx:H layer has been researched since it is known as a hydrogenation source to passivate multi-crystalline silicon after the high temperature firing step [63,64]. By using this principle, it was reported that the regeneration rate was increased as the peak firing temperature increased [65]. The Fourier-transformed infrared (FTIR) measurement revealed that the higher peak temperature of firing transfers more hydrogen from the SiNx:H layers into the silicon. Also, M\u00fcnzer et al. again proved the role of hydrogen by observing that a silicon nitride layer, which was deposited without containing hydrogen by low pressure chemical vapor deposition (LPCVD), showed no improvement of minority carrier lifetime after regeneration [16]. Reversely, hydrogen can be effused from the silicon during the cooling step of firing [7,65\u201369]. At high peak temperature of firing above 750 \u00b0C, a faster cooling rate increased the regeneration rate due to the limited effusion of hydrogen from the silicon bulk. In addition,",
+        "relationships": [
+            {
+                "source": "cyclic hydrogenation procedure",
+                "relationship": "showed",
+                "target": "role of hydrogen in the regeneration reaction"
+            },
+            { "source": "a-SiNx:H layer", "relationship": "is", "target": "hydrogenation source" },
+            { "source": "a-SiNx:H layer", "relationship": "passivates", "target": "multi-crystalline silicon" },
+            { "source": "peak firing temperature", "relationship": "increases", "target": "regeneration rate" },
+            {
+                "source": "FTIR measurement",
+                "relationship": "revealed",
+                "target": "transfer of hydrogen from SiNx:H layers into silicon"
+            },
+            {
+                "source": "silicon nitride layer",
+                "relationship": "showed",
+                "target": "no improvement of minority carrier lifetime"
+            },
+            { "source": "hydrogen", "relationship": "effuses", "target": "silicon" },
+            { "source": "faster cooling rate", "relationship": "increases", "target": "regeneration rate" }
+        ]
+    },
+    {
+        "text_chunk": "carrier lifetime after regeneration [16]. Reversely, hydrogen can be effused from the silicon during the cooling step of firing [7,65\u201369]. At high peak temperature of firing above 750 \u00b0C, a faster cooling rate increased the regeneration rate due to the limited effusion of hydrogen from the silicon bulk. In addition, the regeneration rate was influenced by the amount of injected hydrogen when the peak temperature was below 750 \u00b0C. Fig. 3 depicts an example of the samples which were fired at 750 \u00b0C with different belt speed of furnace [65]. Fig. 3(a) is a reference sample which has ten hydrogen atoms in the SiNx:H layer. Fig. 3(b\u2013d) shows the injection of hydrogen at peak temperature of firing, while Fig. 3(e\u2013g) shows the respective effusion of hydrogen during the cooling. Even though the sample in Fig. 3(d), (g) had a lesser amount of hydrogen effusion due to the fast cooling rate, sample in Fig. 3(c), (f) had more amount of hydrogen, since there were more injected hydrogen atoms at peak temperature of firing. When there is enough hydrogen concentration in the silicon bulk by applying optimized firing process, additional mid-temperature steps are known to influence the following regeneration process [20]. The",
+        "relationships": [
+            { "source": "hydrogen", "relationship": "effused_from", "target": "silicon" },
+            { "source": "cooling_rate", "relationship": "increased", "target": "regeneration_rate" },
+            { "source": "amount_of_hydrogen", "relationship": "influenced", "target": "regeneration_rate" },
+            { "source": "peak_temperature", "relationship": "above", "target": "750 \u00b0C" },
+            { "source": "firing_process", "relationship": "optimized", "target": "hydrogen_concentration" },
+            { "source": "mid-temperature_steps", "relationship": "influenced", "target": "regeneration_process" },
+            { "source": "silicon_bulk", "relationship": "has", "target": "hydrogen_concentration" },
+            { "source": "hydrogen_atoms", "relationship": "injected_into", "target": "SiNx:H_layer" },
+            { "source": "cooling_rate", "relationship": "limited", "target": "hydrogen_effusion" },
+            { "source": "firing", "relationship": "occurs_at", "target": "peak_temperature" }
+        ]
+    },
+    {
+        "text_chunk": "sample in Fig. 3(c), (f) had more amount of hydrogen, since there were more injected hydrogen atoms at peak temperature of firing. When there is enough hydrogen concentration in the silicon bulk by applying optimized firing process, additional mid-temperature steps are known to influence the following regeneration process [20]. The annealing steps in the mid-temperature range (100 \u2013 400 \u00b0C) for 15 min resulted in the maximum regeneration rate at ~ 230 \u00b0C. Above this temperature, regeneration started to decrease sharply and no regeneration occurred anymore near at 400 \u00b0C. The mechanism of this result, which is suggested by McQuaid et al., is that the thermal energy redistributed the hydrogen to the preferred bound state depending on the temperature. Such hydrogen start to forms boron-hydrogen (B-H) pairs at around 170 \u00b0C. However, at higher temperature above 380 \u00b0C, hydrogen is bound in H2 molecules instead of the B-H pairs. H2 molecules are not easily dissociated under regeneration condition due to their high stability compared to the B-H pairs. For this reason, the B-H pairs can produce more mobile hydrogen atoms in the silicon bulk, which are favorable for the following regeneration process. 3.2.3. Acceleration of the regeneration rate As Fig.",
+        "relationships": [
+            { "source": "hydrogen", "relationship": "increases", "target": "regeneration rate" },
+            { "source": "optimized firing process", "relationship": "influences", "target": "regeneration process" },
+            { "source": "annealing steps", "relationship": "results in", "target": "maximum regeneration rate" },
+            { "source": "thermal energy", "relationship": "redistributes", "target": "hydrogen" },
+            { "source": "hydrogen", "relationship": "forms", "target": "boron-hydrogen pairs" },
+            { "source": "boron-hydrogen pairs", "relationship": "produces", "target": "mobile hydrogen atoms" },
+            { "source": "H2 molecules", "relationship": "dissociates", "target": "hydrogen" },
+            { "source": "B-H pairs", "relationship": "compared to", "target": "H2 molecules" },
+            { "source": "silicon bulk", "relationship": "contains", "target": "hydrogen" },
+            { "source": "McQuaid et al.", "relationship": "suggests", "target": "mechanism" }
+        ]
+    },
+    {
+        "text_chunk": "molecules are not easily dissociated under regeneration condition due to their high stability compared to the B-H pairs. For this reason, the B-H pairs can produce more mobile hydrogen atoms in the silicon bulk, which are favorable for the following regeneration process. 3.2.3. Acceleration of the regeneration rate As Fig. 2 shows, the states of B-O defects are determined by the reaction rate of four transitions (annealing, degradation, regeneration, and destabilization). In order to decrease the duration of hydrogen passivation, the acceleration of the regeneration rate is required. The regeneration reaction can outweigh the other reactions during the process by controlling the intensity of illumination since the other transition reactions are only controlled by temperature. For these reasons, Wilking et al. regenerated samples with 2.7 sun intensity illumination at varied temperatures (120\u2013400 \u00b0C) [20]. The experimental results showed that high intensity illumination decreased complete Fig. 3. Example of hydrogen amount in the silicon (numbers under each sample figure) when the samples were fired at 750 \u00b0C with different belt speed (gray color of figure is silicon and dark blue color is SiNx:H). Each figure shows samples (a) before firing, (b\u2013d) hydrogen injection with varied time at peak temperature of firing,",
+        "relationships": [
+            { "source": "molecules", "relationship": "are", "target": "not easily dissociated" },
+            { "source": "molecules", "relationship": "have", "target": "high stability" },
+            { "source": "B-H pairs", "relationship": "can produce", "target": "mobile hydrogen atoms" },
+            { "source": "B-H pairs", "relationship": "are compared to", "target": "molecules" },
+            {
+                "source": "B-O defects",
+                "relationship": "are determined by",
+                "target": "reaction rate of four transitions"
+            },
+            {
+                "source": "regeneration rate",
+                "relationship": "is required to be accelerated",
+                "target": "decrease the duration of hydrogen passivation"
+            },
+            { "source": "regeneration reaction", "relationship": "can outweigh", "target": "other reactions" },
+            { "source": "illumination", "relationship": "can control", "target": "regeneration reaction" },
+            { "source": "temperature", "relationship": "can control", "target": "other transition reactions" },
+            { "source": "Wilking et al.", "relationship": "regenerated", "target": "samples" },
+            { "source": "high intensity illumination", "relationship": "decreased", "target": "complete" },
+            { "source": "samples", "relationship": "were fired at", "target": "750 \u00b0C" },
+            { "source": "samples", "relationship": "had varied", "target": "belt speed" }
+        ]
+    },
+    {
+        "text_chunk": "in the silicon (numbers under each sample figure) when the samples were fired at 750 \u00b0C with different belt speed (gray color of figure is silicon and dark blue color is SiNx:H). Each figure shows samples (a) before firing, (b\u2013d) hydrogen injection with varied time at peak temperature of firing, (e\u2013g) hydrogen effusion with varied the cooling rate. regeneration time up to 10 s at ~ 200 \u00b0C. Above 230 \u00b0C, the defect concentration after regeneration increased since the destabilization started to be dominant reaction. Also, D. C. Walter et al. reported few milliseconds of \u03c4eff on the boron-doped Czochralski (CZ) silicon wafer by applying the mid-temperature annealing (250 \u00b0C) for 10 min in the dark followed by regeneration at 230 \u00b0C with 2.45 sun [70]. By applying the accelerated regeneration, complete deactivation of the B-O defect was achieved only after 5 s process duration. According to these results, it is clearly shown that the acceleration of complete regeneration of B-O defects is possible by increasing the illumination intensity with proper range of temperature. In order to apply the accelerated regeneration process on the industry, a production scale inline regenerator (C.REG 6.200), which allows 40 s of regeneration in a",
+        "relationships": [
+            { "source": "silicon", "relationship": "contains", "target": "samples" },
+            { "source": "samples", "relationship": "were fired at", "target": "750 \u00b0C" },
+            { "source": "samples", "relationship": "have", "target": "different belt speed" },
+            { "source": "silicon", "relationship": "is", "target": "gray color" },
+            { "source": "SiNx:H", "relationship": "is", "target": "dark blue color" },
+            { "source": "samples", "relationship": "show", "target": "hydrogen injection" },
+            { "source": "samples", "relationship": "show", "target": "hydrogen effusion" },
+            { "source": "regeneration", "relationship": "occurs at", "target": "200 \u00b0C" },
+            { "source": "defect concentration", "relationship": "increased above", "target": "230 \u00b0C" },
+            { "source": "D. C. Walter et al.", "relationship": "reported", "target": "\u03c4eff" },
+            { "source": "boron-doped Czochralski (CZ) silicon wafer", "relationship": "has", "target": "\u03c4eff" },
+            { "source": "mid-temperature annealing", "relationship": "was applied at", "target": "250 \u00b0C" },
+            { "source": "regeneration", "relationship": "was applied at", "target": "230 \u00b0C" },
+            {
+                "source": "accelerated regeneration",
+                "relationship": "achieved",
+                "target": "complete deactivation of B-O defect"
+            },
+            {
+                "source": "complete deactivation of B-O defect",
+                "relationship": "occurs after",
+                "target": "5 s process duration"
+            },
+            { "source": "accelerated regeneration process", "relationship": "can be applied on", "target": "industry" },
+            {
+                "source": "production scale inline regenerator (C.REG 6.200)",
+                "relationship": "allows",
+                "target": "40 s of regeneration"
+            }
+        ]
+    },
+    {
+        "text_chunk": "is clearly shown that the acceleration of complete regeneration of B-O defects is possible by increasing the illumination intensity with proper range of temperature. In order to apply the accelerated regeneration process on the industry, a production scale inline regenerator (C.REG 6.200), which allows 40 s of regeneration in a single pass, was designed by Centrotherm [71,72]. Samples which were regenerated by this production scale tool, resulted in no degradation of open circuit voltage (Voc) after stability test (0.1 suns, 40 \u00b0C and 48 h), though the loss of the short circuit current and the fill factor were inevitable. Also, it was reported that the\u03c4eff after regeneration process can be limited by the high surface recombination velocity due to the passivation damage, such as scratches from the metal belt within the furnace. However, scratches on the passivation layer will be restricted when the rear side is fully metallized. 3.2.4. Impact of plasma exposure and passivation stacks Lim et al. suggested that plasma exposure is an important factor for higher hydrogen diffusion rather than the concentration of hydrogen in the silicon nitride layer since the samples with an aluminum oxide layer, which was deposited by plasma-assisted atomic layer deposition (PA-ALD), were",
+        "relationships": [
+            {
+                "source": "illumination intensity",
+                "relationship": "increases",
+                "target": "acceleration of complete regeneration of B-O defects"
+            },
+            {
+                "source": "Centrotherm",
+                "relationship": "designed",
+                "target": "production scale inline regenerator (C.REG 6.200)"
+            },
+            {
+                "source": "production scale inline regenerator (C.REG 6.200)",
+                "relationship": "regenerates",
+                "target": "samples"
+            },
+            {
+                "source": "stability test",
+                "relationship": "results in",
+                "target": "no degradation of open circuit voltage (Voc)"
+            },
+            { "source": "regeneration process", "relationship": "limits", "target": "\u03c4eff" },
+            {
+                "source": "high surface recombination velocity",
+                "relationship": "causes",
+                "target": "passivation damage"
+            },
+            { "source": "metal belt", "relationship": "causes", "target": "scratches" },
+            {
+                "source": "rear side metallization",
+                "relationship": "restricts",
+                "target": "scratches on the passivation layer"
+            },
+            {
+                "source": "Lim et al.",
+                "relationship": "suggested",
+                "target": "plasma exposure is an important factor for higher hydrogen diffusion"
+            },
+            { "source": "plasma exposure", "relationship": "increases", "target": "hydrogen diffusion" },
+            {
+                "source": "plasma-assisted atomic layer deposition (PA-ALD)",
+                "relationship": "deposits",
+                "target": "aluminum oxide layer"
+            }
+        ]
+    },
+    {
+        "text_chunk": "of plasma exposure and passivation stacks Lim et al. suggested that plasma exposure is an important factor for higher hydrogen diffusion rather than the concentration of hydrogen in the silicon nitride layer since the samples with an aluminum oxide layer, which was deposited by plasma-assisted atomic layer deposition (PA-ALD), were regenerated [73]. They assumed that exposure to the plasma during the deposition could either increase the amount of hydrogen in the dielectric layer or enhance the diffusion of hydrogen into the silicon bulk. Afterwards, the role of exposure to the plasma was studied further to confirm that if the plasma can solely effect on the regeneration process [74]. Samples exposed to the plasma during the silicon nitride PECVD without subsequent firing process did not show stable recovery of bulk lifetime (\u03c4bulk). Also, no recovery was observed when the silicon nitride layer was removed before firing. According to these results, it turned out that the regeneration process is not simply due to the conjunction of prior plasma exposure and firing but the wafer should be fired with the hydrogenated silicon nitride present. When the surface passivation is composed of two layers, which is generally used by passivated emitter and rear cell",
+        "relationships": [
+            { "source": "Lim et al.", "relationship": "suggested", "target": "plasma exposure" },
+            { "source": "plasma exposure", "relationship": "increases", "target": "hydrogen diffusion" },
+            { "source": "plasma exposure", "relationship": "affects", "target": "regeneration process" },
+            { "source": "plasma exposure", "relationship": "enhances", "target": "hydrogen diffusion" },
+            { "source": "plasma exposure", "relationship": "increases", "target": "hydrogen amount" },
+            { "source": "silicon nitride layer", "relationship": "removed", "target": "before firing" },
+            { "source": "silicon nitride layer", "relationship": "present", "target": "during firing" },
+            { "source": "plasma exposure", "relationship": "studied", "target": "regeneration process" },
+            { "source": "samples", "relationship": "exposed", "target": "plasma" },
+            { "source": "samples", "relationship": "did not show", "target": "stable recovery" },
+            { "source": "surface passivation", "relationship": "composed", "target": "two layers" },
+            { "source": "passivated emitter and rear cell", "relationship": "uses", "target": "surface passivation" }
+        ]
+    },
+    {
+        "text_chunk": "turned out that the regeneration process is not simply due to the conjunction of prior plasma exposure and firing but the wafer should be fired with the hydrogenated silicon nitride present. When the surface passivation is composed of two layers, which is generally used by passivated emitter and rear cell (PERC), thin aluminum oxide (Al2O3) or silicon dioxide (SiO2) layer between silicon and SiNx:H can affect positively on the regeneration due to the increased surface passivation quality [55]. In the case of these interlayers, even though it is not significantly involved in the diffusion of hydrogen, it helps to enhance the injection level during the regeneration step. However, it was reported that when the thickness of Al2O3 was out of range (8\u201314 nm), it acted as a barrier of the hydrogen diffusion [57,75]. 3.3. Advanced hydrogen passivation for n-type silicon wafers Phosphorus doped n-type silicon substrates have been used for developing higher efficiency solar cells since it is beneficial for the CID and the interstitial Fe, which is a common impurity [76,77]. Nevertheless, it is reported that n-type based solar cells also require great \u03c4bulk above 1 millisecond (ms) for the production of a heterojunction silicon with intrinsic thin layer",
+        "relationships": [
+            {
+                "source": "regeneration process",
+                "relationship": "is_not_due_to",
+                "target": "conjunction of prior plasma exposure and firing"
+            },
+            { "source": "wafer", "relationship": "should_be_fired_with", "target": "hydrogenated silicon nitride" },
+            { "source": "surface passivation", "relationship": "is_composed_of", "target": "two layers" },
+            {
+                "source": "two layers",
+                "relationship": "is_used_by",
+                "target": "passivated emitter and rear cell (PERC)"
+            },
+            {
+                "source": "thin aluminum oxide (Al2O3) or silicon dioxide (SiO2) layer",
+                "relationship": "can_affect_positively_on",
+                "target": "regeneration"
+            },
+            {
+                "source": "thin aluminum oxide (Al2O3) or silicon dioxide (SiO2) layer",
+                "relationship": "is_between",
+                "target": "silicon and SiNx:H"
+            },
+            { "source": "interlayers", "relationship": "helps_to_enhance", "target": "injection level" },
+            { "source": "Al2O3", "relationship": "acted_as", "target": "barrier of the hydrogen diffusion" },
+            {
+                "source": "n-type silicon substrates",
+                "relationship": "have_been_used_for",
+                "target": "developing higher efficiency solar cells"
+            },
+            {
+                "source": "n-type silicon substrates",
+                "relationship": "is_beneficial_for",
+                "target": "CID and the interstitial Fe"
+            },
+            {
+                "source": "n-type based solar cells",
+                "relationship": "require",
+                "target": "great \u03c4bulk above 1 millisecond (ms)"
+            }
+        ]
+    },
+    {
+        "text_chunk": "developing higher efficiency solar cells since it is beneficial for the CID and the interstitial Fe, which is a common impurity [76,77]. Nevertheless, it is reported that n-type based solar cells also require great \u03c4bulk above 1 millisecond (ms) for the production of a heterojunction silicon with intrinsic thin layer (HIT) solar cell with the Voc over 700 mV [78]. As a limitation of high bulk lifetime, oxygen precipitates, which grew within wafers during the high temperature process such as emitter diffusion and oxidation, are one of the reasons reducing the absolute efficiency around 3\u20135% [79,80]. In order to eliminate oxygen precipitates, a process called \u2018tabula rasa\u2019 has been applied to dissolve the oxygen precipitate nuclei [81,82]. Also, phosphorus gettering can reduce the recombination activity of the oxygen precipitates, which is combined with metallic impurities [83]. Compared to these processes that require high temperature, hydrogen passivation is more beneficial due to the lower process temperature. In order to achieve the high \u03c4bulk, influence of advanced hydrogen passivation on the oxygen precipitates has been studied [84,85]. 1-sun implied open circuit voltage (iVoc) mapping clearly revealed that the ring like patterns of oxygen precipitates on the center of wafers were totally recovered",
+        "relationships": [
+            { "source": "higher efficiency solar cells", "relationship": "require", "target": "great \u03c4bulk" },
+            { "source": "oxygen precipitates", "relationship": "reduce", "target": "absolute efficiency" },
+            { "source": "tabula rasa", "relationship": "dissolve", "target": "oxygen precipitate nuclei" },
+            {
+                "source": "phosphorus gettering",
+                "relationship": "reduce",
+                "target": "recombination activity of oxygen precipitates"
+            },
+            { "source": "hydrogen passivation", "relationship": "benefit", "target": "lower process temperature" },
+            { "source": "advanced hydrogen passivation", "relationship": "influence", "target": "oxygen precipitates" },
+            {
+                "source": "1-sun implied open circuit voltage (iVoc) mapping",
+                "relationship": "reveal",
+                "target": "ring like patterns of oxygen precipitates"
+            },
+            { "source": "hydrogen passivation", "relationship": "recover", "target": "oxygen precipitates" }
+        ]
+    },
+    {
+        "text_chunk": "to the lower process temperature. In order to achieve the high \u03c4bulk, influence of advanced hydrogen passivation on the oxygen precipitates has been studied [84,85]. 1-sun implied open circuit voltage (iVoc) mapping clearly revealed that the ring like patterns of oxygen precipitates on the center of wafers were totally recovered after the advanced hydrogenation improving iVoc around 50 mV. Moreover, defect-rich n-type CZ wafers, which were deposited by hydrogenated silicon oxynitride (SiOxNy:H), showed significant improvement of \u03c4bulk from 87 \u2212 190 \u03bcs to 3.4 \u2212 4.9 ms. In particular, the injection-level dependence of the \u03c4eff was removed, which means that the SRH recombination centers were passivated. 3.4. Advanced hydrogen passivation for UMG silicon wafers Even though UMG silicon wafers have lower quality compared to the electronic grade silicon wafers, it has been evaluated as a potential low cost material for the solar cell fabrication [86\u201392]. However, the UMG silicon wafers typically contain a relatively high concentration of impurities such as boron, aluminum and phosphorous since the UMG silicon feedstock is purified by a liquid phase purification process [93,94]. For these reasons, passivation of B-O complex in both a n- and a p-type UMG silicon wafer is a significant process if",
+        "relationships": [
+            {
+                "source": "advanced hydrogen passivation",
+                "relationship": "influences",
+                "target": "oxygen precipitates"
+            },
+            { "source": "advanced hydrogenation", "relationship": "improves", "target": "iVoc" },
+            {
+                "source": "hydrogenated silicon oxynitride (SiOxNy:H)",
+                "relationship": "deposits",
+                "target": "defect-rich n-type CZ wafers"
+            },
+            {
+                "source": "advanced hydrogen passivation",
+                "relationship": "removes",
+                "target": "injection-level dependence of the \u03c4eff"
+            },
+            {
+                "source": "advanced hydrogen passivation",
+                "relationship": "passivates",
+                "target": "SRH recombination centers"
+            },
+            { "source": "UMG silicon wafers", "relationship": "have", "target": "lower quality" },
+            { "source": "UMG silicon wafers", "relationship": "contain", "target": "impurities" },
+            {
+                "source": "liquid phase purification process",
+                "relationship": "purifies",
+                "target": "UMG silicon feedstock"
+            },
+            {
+                "source": "passivation of B-O complex",
+                "relationship": "is significant for",
+                "target": "UMG silicon wafer"
+            }
+        ]
+    },
+    {
+        "text_chunk": "typically contain a relatively high concentration of impurities such as boron, aluminum and phosphorous since the UMG silicon feedstock is purified by a liquid phase purification process [93,94]. For these reasons, passivation of B-O complex in both a n- and a p-type UMG silicon wafer is a significant process if the wafers contain enough concentration of oxygen [95\u201399]. B. J. Hallam et al. showed that advanced hydrogen passivation can improve minority carrier lifetime of compensated boron doped p-type CZ wafers [19,100]. The advanced hydrogen passivation was applied on UMG silicon wafers by using a firing belt furnace as a heating source to reach around 620 \u00b0C for 2 s and an illumination source simultaneously. The impact of hydrogen passivation on UMG wafers were greatly dependent on the position of the wafer within the ingot due to the different dopant densities. Wafers from the bottom of the ingot showed significant \u03c4bulk improvement (from 8 \u03bcs to 550 \u03bcs) after hydrogen passivation. Therefore, theoretical calculation of fractional hydrogen concentration (H[0], H[-]) in various effective doping densities (NEFF) showed that the H[0] concentration was reduced with high NEFF, especially at lower temperature. Accordingly, the bottom part of ingot, which has lower NEFF due",
+        "relationships": [
+            {
+                "source": "UMG silicon feedstock",
+                "relationship": "is purified by",
+                "target": "liquid phase purification process"
+            },
+            { "source": "B-O complex", "relationship": "is passivated in", "target": "UMG silicon wafer" },
+            { "source": "B. J. Hallam et al.", "relationship": "showed", "target": "advanced hydrogen passivation" },
+            {
+                "source": "advanced hydrogen passivation",
+                "relationship": "improves",
+                "target": "minority carrier lifetime"
+            },
+            {
+                "source": "advanced hydrogen passivation",
+                "relationship": "was applied on",
+                "target": "UMG silicon wafers"
+            },
+            { "source": "firing belt furnace", "relationship": "is used as", "target": "heating source" },
+            {
+                "source": "illumination source",
+                "relationship": "is used simultaneously with",
+                "target": "firing belt furnace"
+            },
+            { "source": "hydrogen passivation", "relationship": "has impact on", "target": "UMG wafers" },
+            { "source": "position of the wafer", "relationship": "affects", "target": "hydrogen passivation" },
+            {
+                "source": "wafers from the bottom of the ingot",
+                "relationship": "showed",
+                "target": "significant \u03c4bulk improvement"
+            },
+            { "source": "theoretical calculation", "relationship": "showed", "target": "H[0] concentration" },
+            { "source": "H[0] concentration", "relationship": "is reduced with", "target": "high NEFF" }
+        ]
+    },
+    {
+        "text_chunk": "improvement (from 8 \u03bcs to 550 \u03bcs) after hydrogen passivation. Therefore, theoretical calculation of fractional hydrogen concentration (H[0], H[-]) in various effective doping densities (NEFF) showed that the H[0] concentration was reduced with high NEFF, especially at lower temperature. Accordingly, the bottom part of ingot, which has lower NEFF due to the compensation, could obtain more minority charge state of hydrogen atoms. 3.5. Laser-induced hydrogen passivation Laser technology has been broadly applied in solar cell fabrication such as edge junction isolation, groove formation for buried contacts, selective doping, texturing and ablation of dielectric layers [101\u2013105]. Recently, an application of laser for the hydrogen passivation has been researched since laser has thermal and radiation energy simultaneously. Lasers can contribute to the hydrogen passivation of the local area of cells. Hydrogen passivation using a belt furnace will dehydrogenate some regions on the cells where it had initially high lifetime. However, laser-induced hydrogen passivation is beneficial for recovering only the defective area. This property of laser-induced hydrogenation is significantly valuable since the hydrogenation quality can be degraded again by temperature steps subsequent to hydrogenation [106\u2013108]. Song et al. reported the influence of laser processing parameters on the samples that were passivated by SiNx:H",
+        "relationships": [
+            { "source": "hydrogen passivation", "relationship": "improves", "target": "lifetime" },
+            { "source": "H[0] concentration", "relationship": "reduces", "target": "high NEFF" },
+            { "source": "bottom part of ingot", "relationship": "has", "target": "lower NEFF" },
+            { "source": "laser technology", "relationship": "applied in", "target": "solar cell fabrication" },
+            { "source": "laser", "relationship": "contributes to", "target": "hydrogen passivation" },
+            { "source": "belt furnace", "relationship": "dehydrogenates", "target": "cells" },
+            { "source": "laser-induced hydrogen passivation", "relationship": "recovers", "target": "defective area" },
+            { "source": "laser-induced hydrogenation", "relationship": "degrades", "target": "hydrogenation quality" },
+            {
+                "source": "Song et al.",
+                "relationship": "reported",
+                "target": "influence of laser processing parameters"
+            },
+            { "source": "SiNx:H", "relationship": "passivates", "target": "samples" }
+        ]
+    },
+    {
+        "text_chunk": "passivation is beneficial for recovering only the defective area. This property of laser-induced hydrogenation is significantly valuable since the hydrogenation quality can be degraded again by temperature steps subsequent to hydrogenation [106\u2013108]. Song et al. reported the influence of laser processing parameters on the samples that were passivated by SiNx:H on both sides [109]. In the case of laser power densities, as much as the laser does not break wafers, higher power density improved the \u03c4eff of samples. Also, photoluminescence (PL) image showed that the laser illuminated region was locally passivated. Regarding the scan speed of laser, which were varied from 0.5 to 3.5 mm/s, the hydrogenation effect on the scanned area was increased as the scan speed became slower since the sample had longer time to passivate defects with hydrogen. Substrate temperature conditions, which were controlled by hot plate, also showed differences in hydrogenation amount. At higher temperatures of substrate, lifetime showed more enhancement since hydrogen has much faster diffusivity and is bound with defect rapidly. However, hydrogenation, which was the result of substrate heating, outweighed the laser-induced hydrogenation. As a result, the PL response image revealed that there was no evident brightness improvement in a specific region. As",
+        "relationships": [
+            { "source": "passivation", "relationship": "is beneficial for", "target": "recovering defective area" },
+            {
+                "source": "laser-induced hydrogenation",
+                "relationship": "has property",
+                "target": "recovering defective area"
+            },
+            { "source": "temperature steps", "relationship": "degrade", "target": "hydrogenation quality" },
+            {
+                "source": "Song et al.",
+                "relationship": "reported",
+                "target": "influence of laser processing parameters"
+            },
+            { "source": "laser power densities", "relationship": "improve", "target": "\u03c4eff of samples" },
+            { "source": "laser", "relationship": "illuminate", "target": "region" },
+            { "source": "region", "relationship": "is passivated", "target": "locally" },
+            { "source": "scan speed of laser", "relationship": "affect", "target": "hydrogenation effect" },
+            { "source": "sample", "relationship": "has", "target": "longer time to passivate defects" },
+            {
+                "source": "substrate temperature conditions",
+                "relationship": "control",
+                "target": "hydrogenation amount"
+            },
+            { "source": "hydrogen", "relationship": "has", "target": "faster diffusivity" },
+            { "source": "hydrogen", "relationship": "bind with", "target": "defect" },
+            { "source": "substrate heating", "relationship": "cause", "target": "hydrogenation" },
+            { "source": "hydrogenation", "relationship": "outweigh", "target": "laser-induced hydrogenation" },
+            { "source": "PL response image", "relationship": "reveal", "target": "no evident brightness improvement" }
+        ]
+    },
+    {
+        "text_chunk": "substrate, lifetime showed more enhancement since hydrogen has much faster diffusivity and is bound with defect rapidly. However, hydrogenation, which was the result of substrate heating, outweighed the laser-induced hydrogenation. As a result, the PL response image revealed that there was no evident brightness improvement in a specific region. As the cooling rate of the firing step needs to be fast to leave more of a hydrogen amount inside of silicon, the cooling rate after the laserinduced hydrogenation should be controlled properly. Samples that were located on the heated hot plate after laser illumination resulted in a poor PL response due to the slower cooling rate compared to the samples that were off the hot plate [110]. For this reason, a high cooling rate is required after laser illumination to prevent subsequent dissociation of hydrogen-defect complexes. In addition, the effects of the laser-induced hydrogenation also can be stronger by a pre-firing step at high temperature since the samples can obtain more hydrogen atoms to be controlled by laser illumination. For effective laser-induced hydrogenation, the decision of the laser wavelength is also one of important parameters. Hamer et al. reported that illumination with a long wavelength laser was more suitable for",
+        "relationships": [
+            { "source": "hydrogen", "relationship": "has", "target": "faster diffusivity" },
+            { "source": "hydrogen", "relationship": "is bound with", "target": "defect" },
+            { "source": "hydrogenation", "relationship": "is result of", "target": "substrate heating" },
+            { "source": "hydrogenation", "relationship": "outweighs", "target": "laser-induced hydrogenation" },
+            { "source": "PL response image", "relationship": "reveals", "target": "no evident brightness improvement" },
+            { "source": "cooling rate of firing step", "relationship": "needs to be", "target": "fast" },
+            {
+                "source": "cooling rate after laser-induced hydrogenation",
+                "relationship": "should be controlled",
+                "target": "properly"
+            },
+            { "source": "samples on heated hot plate", "relationship": "result in", "target": "poor PL response" },
+            { "source": "samples off hot plate", "relationship": "have", "target": "faster cooling rate" },
+            {
+                "source": "high cooling rate",
+                "relationship": "is required for",
+                "target": "preventing dissociation of hydrogen-defect complexes"
+            },
+            {
+                "source": "laser-induced hydrogenation",
+                "relationship": "can be strengthened by",
+                "target": "pre-firing step at high temperature"
+            },
+            { "source": "samples", "relationship": "can obtain", "target": "more hydrogen atoms" },
+            {
+                "source": "laser wavelength",
+                "relationship": "is important parameter for",
+                "target": "effective laser-induced hydrogenation"
+            },
+            {
+                "source": "Hamer et al.",
+                "relationship": "reported",
+                "target": "illumination with long wavelength laser is more suitable"
+            }
+        ]
+    },
+    {
+        "text_chunk": "pre-firing step at high temperature since the samples can obtain more hydrogen atoms to be controlled by laser illumination. For effective laser-induced hydrogenation, the decision of the laser wavelength is also one of important parameters. Hamer et al. reported that illumination with a long wavelength laser was more suitable for the hydrogenation [111]. Samples illuminated with an 808 nm wavelength achieved comparably higher effective lifetime results than samples at 660 nm wavelength. According to their research, there are three major advantages that long wavelength illumination is suitable for the laser-induced hydrogen passivation. First, long wavelength light can generate carriers that are more uniform throughout the bulk. Especially, this property is beneficial to wafers that have non-uniform defect distribution. The second benefit is the reduction of excess energy loss as heat. If the photon generation efficiency is same between different wavelengths of light, the long wavelength light will require less energy process to excite greater carrier concentration. The other benefit comes from reduced irradiation on the wafer due to the long wavelength. The reduced irradiation decreases heat gain which can make the process easy to control the temperature profile. Better temperature control can have substantial importance since the charge state control",
+        "relationships": [
+            {
+                "source": "pre-firing step",
+                "relationship": "allows",
+                "target": "samples to obtain more hydrogen atoms"
+            },
+            { "source": "laser wavelength", "relationship": "influences", "target": "laser-induced hydrogenation" },
+            {
+                "source": "Hamer et al.",
+                "relationship": "reported",
+                "target": "illumination with a long wavelength laser is more suitable for hydrogenation"
+            },
+            { "source": "long wavelength laser", "relationship": "is more suitable for", "target": "hydrogenation" },
+            {
+                "source": "808 nm wavelength",
+                "relationship": "achieves",
+                "target": "higher effective lifetime results"
+            },
+            { "source": "660 nm wavelength", "relationship": "achieves", "target": "lower effective lifetime results" },
+            {
+                "source": "long wavelength light",
+                "relationship": "generates",
+                "target": "uniform carriers throughout the bulk"
+            },
+            {
+                "source": "uniform carriers",
+                "relationship": "are beneficial to",
+                "target": "wafers with non-uniform defect distribution"
+            },
+            { "source": "long wavelength light", "relationship": "reduces", "target": "excess energy loss as heat" },
+            {
+                "source": "long wavelength light",
+                "relationship": "requires",
+                "target": "less energy process to excite greater carrier concentration"
+            },
+            { "source": "reduced irradiation", "relationship": "decreases", "target": "heat gain" },
+            { "source": "reduced heat gain", "relationship": "makes", "target": "temperature profile easy to control" },
+            {
+                "source": "better temperature control",
+                "relationship": "has",
+                "target": "substantial importance for charge state control"
+            }
+        ]
+    },
+    {
+        "text_chunk": "process to excite greater carrier concentration. The other benefit comes from reduced irradiation on the wafer due to the long wavelength. The reduced irradiation decreases heat gain which can make the process easy to control the temperature profile. Better temperature control can have substantial importance since the charge state control of hydrogen depends on the cooling rate after high temperature process [33]. By using the laser technique, hydrogen passivation was applied on completed cast-monocrystalline silicon solar cells [74,110]. The cell performance was substantially improved after laser-induced hydrogenation. Compared to the reference cell, the hydrogenated cell had 0.61% higher conversion efficiency which was mainly contributed by the 12 mV higher Voc. The enhanced spatial internal quantum efficiency map, which was conducted by a long wave length (981 nm) laser, showed that the Voc gain was mostly obtained by passivation of dislocation clusters in the bulk side. Accordingly, it is obvious that laserinduced hydrogen passivation is a powerful technique for the high efficient solar cell fabrication. Conclusion This article reviews the advanced hydrogen passivation based on the controlling of charge states of hydrogens. Many researchers proved that advanced hydrogen passivation enhances minority carrier lifetime by neutralizing various defects in the silicon bulk.",
+        "relationships": [
+            { "source": "reduced irradiation", "relationship": "decreases", "target": "heat gain" },
+            { "source": "heat gain", "relationship": "affects", "target": "temperature control" },
+            { "source": "temperature control", "relationship": "depends on", "target": "cooling rate" },
+            { "source": "cooling rate", "relationship": "affects", "target": "charge state control of hydrogen" },
+            { "source": "laser technique", "relationship": "applies", "target": "hydrogen passivation" },
+            { "source": "hydrogen passivation", "relationship": "improves", "target": "cell performance" },
+            { "source": "hydrogenated cell", "relationship": "has", "target": "higher conversion efficiency" },
+            { "source": "higher conversion efficiency", "relationship": "contributes to", "target": "higher Voc" },
+            { "source": "laser-induced hydrogen passivation", "relationship": "obtains", "target": "Voc gain" },
+            { "source": "Voc gain", "relationship": "results from", "target": "passivation of dislocation clusters" },
+            {
+                "source": "advanced hydrogen passivation",
+                "relationship": "enhances",
+                "target": "minority carrier lifetime"
+            },
+            {
+                "source": "advanced hydrogen passivation",
+                "relationship": "neutralizes",
+                "target": "defects in the silicon bulk"
+            }
+        ]
+    },
+    {
+        "text_chunk": "laserinduced hydrogen passivation is a powerful technique for the high efficient solar cell fabrication. Conclusion This article reviews the advanced hydrogen passivation based on the controlling of charge states of hydrogens. Many researchers proved that advanced hydrogen passivation enhances minority carrier lifetime by neutralizing various defects in the silicon bulk. However, optimized hydrogenation process is required to be stable from the subsequent thermal process. For these reason, key points for the great hydrogenation are summarized below. \u2022 [In order to di][ff][use a large amount of hydrogen concentration, high] temperature tempering process (by using belt furnace or laser scanning) with a-SiN:H is required. \u2022 [If the silicon wafer contains enough hydrogen concentration by] optimized hydrogen diffusion process, additional mid-temperature annealing (~ 230 \u00b0C) can enhance the regeneration effect due to B-H pair formation. \u2022 [The cooling rate after the tempering process should be fast to pre-] vent hydrogen effusion from the silicon. \u2022 [Acceleration of complete regeneration process can be achieved by] increasing illumination intensity with proper range of temperature which is dominated by regeneration reaction. \u2022 [In case of laser-induced hydrogen passivation, higher power density] is beneficial as much as the wafer does not break. Also, longer wavelength of the",
+        "relationships": [
+            { "source": "laserinduced hydrogen passivation", "relationship": "is", "target": "powerful technique" },
+            {
+                "source": "laserinduced hydrogen passivation",
+                "relationship": "used for",
+                "target": "solar cell fabrication"
+            },
+            {
+                "source": "advanced hydrogen passivation",
+                "relationship": "enhances",
+                "target": "minority carrier lifetime"
+            },
+            {
+                "source": "advanced hydrogen passivation",
+                "relationship": "neutralizes",
+                "target": "defects in silicon bulk"
+            },
+            {
+                "source": "optimized hydrogenation process",
+                "relationship": "required for",
+                "target": "stability from thermal process"
+            },
+            {
+                "source": "high temperature tempering process",
+                "relationship": "required for",
+                "target": "large amount of hydrogen concentration"
+            },
+            {
+                "source": "optimized hydrogen diffusion process",
+                "relationship": "enhances",
+                "target": "regeneration effect"
+            },
+            { "source": "mid-temperature annealing", "relationship": "enhances", "target": "regeneration effect" },
+            { "source": "fast cooling rate", "relationship": "prevents", "target": "hydrogen effusion" },
+            {
+                "source": "increasing illumination intensity",
+                "relationship": "achieves",
+                "target": "complete regeneration process"
+            },
+            {
+                "source": "laser-induced hydrogen passivation",
+                "relationship": "benefits from",
+                "target": "higher power density"
+            },
+            {
+                "source": "laser-induced hydrogen passivation",
+                "relationship": "benefits from",
+                "target": "longer wavelength"
+            }
+        ]
+    },
+    {
+        "text_chunk": "silicon. \u2022 [Acceleration of complete regeneration process can be achieved by] increasing illumination intensity with proper range of temperature which is dominated by regeneration reaction. \u2022 [In case of laser-induced hydrogen passivation, higher power density] is beneficial as much as the wafer does not break. Also, longer wavelength of the laser is easy to control temperature profile. According to the advantages of advanced hydrogen passivation, efficiency and reliability of the various types of solar cells will be substantially improved. In particular, p-type multi-crystalline silicon solar cells, which shares over 60% in the wafer market, have a big possibility to change an overall R&D direction in the PV industries [112]. Also, UMG silicon is given more potential as another low quality silicon substrate when the portion of substrate cost further increases Moreover, advanced hydrogen passivation is suitable for combining with a Ni/Cu-plated contact since an annealing process for the nickel silicide formation can be carried out simultaneously during the hydrogenation process. In case of the laser-induced hydrogen passivation technique, it is valuable for passivating only the defective area on the cells after sorting process of fabrication. According to this high potential, it is possible to expect that instruments for the advanced",
+        "relationships": [
+            { "source": "illumination intensity", "relationship": "increases", "target": "regeneration process" },
+            {
+                "source": "laser-induced hydrogen passivation",
+                "relationship": "requires",
+                "target": "higher power density"
+            },
+            { "source": "laser", "relationship": "has", "target": "longer wavelength" },
+            {
+                "source": "advanced hydrogen passivation",
+                "relationship": "improves",
+                "target": "efficiency and reliability of solar cells"
+            },
+            {
+                "source": "p-type multi-crystalline silicon solar cells",
+                "relationship": "dominates",
+                "target": "wafer market"
+            },
+            { "source": "UMG silicon", "relationship": "has", "target": "potential as low quality silicon substrate" },
+            {
+                "source": "advanced hydrogen passivation",
+                "relationship": "combines with",
+                "target": "Ni/Cu-plated contact"
+            },
+            {
+                "source": "laser-induced hydrogen passivation technique",
+                "relationship": "passivates",
+                "target": "defective area on cells"
+            }
+        ]
+    },
+    {
+        "text_chunk": "formation can be carried out simultaneously during the hydrogenation process. In case of the laser-induced hydrogen passivation technique, it is valuable for passivating only the defective area on the cells after sorting process of fabrication. According to this high potential, it is possible to expect that instruments for the advanced hydrogen passivation will be more developed and will spread out quickly to the industries in the future for maintaining international competitiveness. Acknowledgment This work was supported by the Korea Institute of Energy Technology Evaluation and Planning (KETEP) and the Ministry of Trade, Industry & Energy (MOTIE) of the Republic of Korea (No. 20173010012940) and by the Ministry of Trade, Industry, and Energy, Korea Evaluation Institute of Industrial Technology (KEIT) (No. 10043793).",
+        "relationships": [
+            { "source": "formation", "relationship": "carried_out", "target": "hydrogenation process" },
+            {
+                "source": "laser-induced hydrogen passivation technique",
+                "relationship": "passivates",
+                "target": "defective area"
+            },
+            {
+                "source": "laser-induced hydrogen passivation technique",
+                "relationship": "performed_after",
+                "target": "sorting process of fabrication"
+            },
+            {
+                "source": "instruments for the advanced hydrogen passivation",
+                "relationship": "developed_for",
+                "target": "industries"
+            },
+            {
+                "source": "work",
+                "relationship": "supported_by",
+                "target": "Korea Institute of Energy Technology Evaluation and Planning (KETEP)"
+            },
+            {
+                "source": "work",
+                "relationship": "supported_by",
+                "target": "Ministry of Trade, Industry & Energy (MOTIE)"
+            },
+            {
+                "source": "work",
+                "relationship": "supported_by",
+                "target": "Ministry of Trade, Industry, and Energy, Korea Evaluation Institute of Industrial Technology (KEIT)"
+            }
+        ]
+    }
+]
